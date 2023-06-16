@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1686912839 "d:/latex_projects/accelerate_DPVI_experiment/main.tex" "main.pdf" "main" 1686912840
+["pdflatex"] 1686923956 "d:/latex_projects/accelerate_DPVI_experiment/main.tex" "main.pdf" "main" 1686923958
   "aaai23.sty" 1666818895 8731 c3b936377a9c34f707e0f1ebd6b7c32b ""
-  "d:/latex_projects/accelerate_DPVI_experiment/main.tex" 1686912837 51628 b518e81c39c9e0a5068599eec37ab8c2 ""
+  "d:/latex_projects/accelerate_DPVI_experiment/main.tex" 1686921823 51680 a50f590bd2c31014eabeff8df57cfd0c ""
   "d:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1658571453 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "d:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1658571629 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "d:/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1658573078 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -21,6 +21,8 @@
   "d:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1658571220 1116 933a60c408fc0a863a92debe84b2d294 ""
   "d:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1658571220 1120 8b7d695260f3cff42e636090a8002094 ""
   "d:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm" 1658571220 1116 25a7bf822c58caf309a702ef79f4afbb ""
+  "d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1658570937 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "d:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1658570937 32762 7fee39e011c23b3589931effd97b9702 ""
   "d:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb" 1658573078 44729 fea0975e20ec51c992338362f05f1146 ""
   "d:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb" 1658573078 46026 687528a208fbfc1f00832bb96cccebbb ""
   "d:/texlive/2022/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf" 1658573078 1372 788387fea833ef5963f4c5bffe33eb89 ""
@@ -34,6 +36,7 @@
   "d:/texlive/2022/texmf-dist/tex/latex/base/size10.clo" 1658571962 8448 96f18c76bf608a36ee6fbf021ac1dd32 ""
   "d:/texlive/2022/texmf-dist/tex/latex/caption/caption.sty" 1658571155 54291 b8e5c600d4aa37b48a740dd2a6c26163 ""
   "d:/texlive/2022/texmf-dist/tex/latex/caption/caption3.sty" 1658571155 71241 d2cd3a1c5acef9cb31f945b93c0bb6e3 ""
+  "d:/texlive/2022/texmf-dist/tex/latex/caption/subcaption.sty" 1658571155 11546 6c5257d230d8c5626812b45bc2f31212 ""
   "d:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1658571515 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "d:/texlive/2022/texmf-dist/tex/latex/float/float.sty" 1658571614 6749 16d2656a1984957e674b149555f1ea1d ""
   "d:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1658571718 1224 978390e9c2234eab29404bc21b268d1e ""
@@ -60,9 +63,13 @@
   "d:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1658573421 4448422 15354be9acfb30b1b7485a9cb19efaa9 ""
   "d:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1658573600 2826459 1ffe51f35b7f218062a33fcb6e9d370a ""
   "d:/texlive/2022/texmf.cnf" 1658573379 713 e69b156964470283e0530f5060668171 ""
-  "main.aux" 1686912840 50 efe82f4a8e02e64812815c2eae338072 "pdflatex"
-  "main.tex" 1686912837 51628 b518e81c39c9e0a5068599eec37ab8c2 ""
-  "section_exp/p0.tex" 1686666675 126 c809a8fb337c448089aed7519bf51115 ""
+  "experiment_figure/GMM/demo_w2_BlobCA_acce_sg.pdf" 1686920989 21497 56b5f151c17f12436f05a6da8a940937 ""
+  "experiment_figure/GMM/demo_w2_BlobDK_acce_sg.pdf" 1686920989 24378 5d06a7cea3da4ac72f8cff0ef57a4cfa ""
+  "experiment_figure/GMM/demo_w2_Blob_acce_sg.pdf" 1686920989 24126 4a166cb00b6015104a7aa0170db0f6ec ""
+  "main.aux" 1686923958 351 cf0ae13b20dd82d5e4905cfa043d0795 "pdflatex"
+  "main.tex" 1686921823 51680 a50f590bd2c31014eabeff8df57cfd0c ""
+  "section_exp/p0.tex" 1686918930 660 057557814344f440e49925c2f880d021 ""
+  "section_exp/p1.tex" 1686923954 1932 8ef7fe1b8e96ddcb02f325852e3d8ad6 ""
   (generated)
   "main.aux"
   "main.log"
